@@ -7,3 +7,5 @@ free ddns websites
 - cloudns.net
 - dynu.com
 - desec.io
+- noip.com
+- freemyip.com
