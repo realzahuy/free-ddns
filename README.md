@@ -6,3 +6,4 @@ free ddns websites
 - myaddr.tools
 - cloudns.net
 - dynu.com
+- desec.io
